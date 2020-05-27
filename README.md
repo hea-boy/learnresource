@@ -2,9 +2,9 @@
 
 ## 软件合集
 
-pc端软件合集 
+[pc ][pc]
 
-[pc]: Software/pc.md	"pc端软件"
+[pc]: Software/pc.md
 
 
 
