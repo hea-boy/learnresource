@@ -10,7 +10,7 @@ pc端软件合集
 
 ## 学习资源
 
-计算机
+[计算机][计算机]
 
-[计算机]: learn_resource/computer_science.md	"计算机"
+[计算机]: learn_sources/computer_science.md	"计算机"
 
